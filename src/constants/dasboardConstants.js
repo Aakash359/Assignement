@@ -1,0 +1,10 @@
+export const ACCOUNTING = 'Accounting';
+export const DATE = 'Aug 1, 2021-Aug 31, 2021';
+export const DRAWER = 'Drawer';
+export const MONTH = 'This month';
+export const INCOME = 'AVG. Monthly Income';
+export const DOLLARS = '$5,849.36';
+export const STATICS = '3.98%';
+export const STATICS2 = 'vs &5.4327.74 prev. 90 days';
+export const TOTAL_INCOME = 'Total Income';
+export const TOTAL_EXPENCES = 'Total Expenses';
